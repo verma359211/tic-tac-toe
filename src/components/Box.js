@@ -1,4 +1,4 @@
-import React, { useDebugValue } from 'react'
+import React from 'react'
 import "./Box.css"
 
 export const Box = ({ value, onClick }) => {
